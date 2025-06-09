@@ -30,5 +30,3 @@ relogio-dark-light/
 ├── index.html
 ├── style.css
 └── script.js
-
-Se quiser personalizar mais (como adicionar badges ou link para deploy), posso te ajudar com isso também.
