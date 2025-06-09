@@ -16,9 +16,6 @@ Um relógio digital com suporte a temas escuro e claro, desenvolvido com HTML, C
 - CSS3
 - JavaScript
 
-## 📷 Preview
-
-![Relógio](./assets/preview.png)
 
 ## 💡 Como usar
 
